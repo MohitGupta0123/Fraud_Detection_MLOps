@@ -112,10 +112,10 @@ No issues found
 
 ===== relationships\mutual_information.txt =====
 
-accountAgeDays          0.066482
-isWeekend               0.011528
-numItems                0.010349
-paymentMethodAgeDays    0.007859
+accountAgeDays          0.075523
+paymentMethodAgeDays    0.009913
+isWeekend               0.009346
+numItems                0.008312
 localTime               0.000000
 dtype: float64
 
