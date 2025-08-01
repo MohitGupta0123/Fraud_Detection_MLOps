@@ -4,4 +4,4 @@ localTime: 3249 outliers (8.28%)
 paymentMethodAgeDays: 6350 outliers (16.19%)
 isWeekend: 0 outliers (0.00%)
 label: 560 outliers (1.43%)
-Multivariate Outliers (IsolationForest): 1960
+Multivariate Outliers (IsolationForest): 1961
