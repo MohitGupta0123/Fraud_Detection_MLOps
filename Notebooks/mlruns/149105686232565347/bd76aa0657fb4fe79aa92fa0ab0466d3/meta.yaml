@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Asus/Downloads/Fraud_MLOps_Project/Notebooks/mlruns/149105686232565347/bd76aa0657fb4fe79aa92fa0ab0466d3/artifacts
+end_time: 1754055204102
+entry_point_name: ''
+experiment_id: '149105686232565347'
+lifecycle_stage: active
+run_id: bd76aa0657fb4fe79aa92fa0ab0466d3
+run_name: LogisticRegression_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754055200773
+status: 3
+tags: []
+user_id: Asus
