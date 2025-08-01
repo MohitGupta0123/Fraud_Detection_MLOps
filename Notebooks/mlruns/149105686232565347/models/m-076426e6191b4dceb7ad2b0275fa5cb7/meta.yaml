@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/Asus/Downloads/Fraud_MLOps_Project/Notebooks/mlruns/149105686232565347/models/m-076426e6191b4dceb7ad2b0275fa5cb7/artifacts
+creation_timestamp: 1754058964305
+experiment_id: '149105686232565347'
+last_updated_timestamp: 1754058967653
+model_id: m-076426e6191b4dceb7ad2b0275fa5cb7
+model_type: null
+name: fraud_pipeline
+source_run_id: ccc41f6a19fa4033b017a74babab2879
+status: 2
+status_message: null

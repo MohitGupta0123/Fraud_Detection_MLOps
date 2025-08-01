@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Asus/Downloads/Fraud_MLOps_Project/Notebooks/mlruns/149105686232565347/e9c9d0205e954386a526d73e50cf5b7a/artifacts
+end_time: 1754055742572
+entry_point_name: ''
+experiment_id: '149105686232565347'
+lifecycle_stage: active
+run_id: e9c9d0205e954386a526d73e50cf5b7a
+run_name: XGBClassifier_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754055738942
+status: 3
+tags: []
+user_id: Asus
