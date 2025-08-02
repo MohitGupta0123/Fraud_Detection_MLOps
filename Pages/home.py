@@ -6,7 +6,10 @@ from Src.model import FraudPipeline, FeatureEngineering, Preprocessing, LogTrans
 
 def home_page():
     # Load model
-    MODEL_PATH = os.path.join("Notebooks", "artifacts", "fraud_pipeline.pkl")
+    # MODEL_PATH = os.path.join("Notebooks", "artifacts", "fraud_pipeline.pkl")
+    MODEL_PATH = os.path.join(os.path.dirname(__file__), "..", "Notebooks", "artifacts", "fraud_pipeline.pkl")
+    MODEL_PATH = os.path.abspath(MODEL_PATH)
+
     fp_loaded = joblib.load(MODEL_PATH)
 
     # Page Title
