@@ -3,3 +3,5 @@ uvicorn
 mlflow
 pandas
 pydantic
+seaborn
+imblearn

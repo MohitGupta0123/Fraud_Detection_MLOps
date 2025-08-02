@@ -1,5 +1,5 @@
 # ---------- Base Image ----------
-FROM python:3.10-slim
+FROM python:3.12-slim
 
 # Set working directory inside container
 WORKDIR /app
@@ -11,7 +11,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # ---------- Copy application code ----------
 COPY API ./API
 # MLflow local registry (if using local file storage)
-COPY Notebooks/mlruns ./Notebooks/mlruns   
+RUN mkdir -p "/c:/Users/Asus/Downloads/Fraud_MLOps_Project/Notebooks/mlruns"
+COPY Notebooks/mlruns /c:/Users/Asus/Downloads/Fraud_MLOps_Project/Notebooks/mlruns
 # Artifacts if model paths are here
 COPY Src/artifacts ./Src/artifacts         
 

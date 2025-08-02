@@ -4,7 +4,8 @@ import numpy as np
 import mlflow
 from mlflow import MlflowClient
 
-mlflow.set_tracking_uri('file:./Notebooks/mlruns')
+# mlflow.set_tracking_uri('file:./Notebooks/mlruns')
+mlflow.set_tracking_uri('file:./API/mlruns')
 
 client = MlflowClient()
 
