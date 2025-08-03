@@ -20,7 +20,6 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 ![Issues](https://img.shields.io/github/issues/MohitGupta0123/Fraud_Detection_MLOps)
 ![Last Commit](https://img.shields.io/github/last-commit/MohitGupta0123/Fraud_Detection_MLOps)
 ![Repo Size](https://img.shields.io/github/repo-size/MohitGupta0123/Fraud_Detection_MLOps)
-
 <!-- ![Stars](https://img.shields.io/github/stars/MohitGupta0123/Fraud_Detection_MLOps)
 ![Forks](https://img.shields.io/github/forks/MohitGupta0123/Fraud_Detection_MLOps) -->
 
