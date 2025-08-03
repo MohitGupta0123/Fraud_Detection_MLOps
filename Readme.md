@@ -13,12 +13,6 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 
-
-![Docker Image Size](https://img.shields.io/docker/image-size/mohitgupta0123/fraud_api)
-![Code Quality](https://img.shields.io/codefactor/grade/github/MohitGupta0123/Fraud_Detection_MLOps)
-![Coverage](https://img.shields.io/codecov/c/github/MohitGupta0123/Fraud_Detection_MLOps)
-
-
 <!-- Project Info Badges -->
 <!-- ![License](https://img.shields.io/badge/License-MIT-lightgrey) -->
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
