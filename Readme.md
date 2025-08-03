@@ -12,7 +12,7 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 
-# [LINK](https://frauddetectionmlops.streamlit.app/)
+# DEMO LINK - [LINK](https://frauddetectionmlops.streamlit.app/)
 
 ---
 
