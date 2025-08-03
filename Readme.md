@@ -4,33 +4,35 @@
 The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to identify potentially fraudulent financial transactions with high accuracy and scalability. This project integrates **Machine Learning (ML) with MLOps principles** to ensure robust experimentation, deployment, and real-time monitoring of fraud detection models.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?logo=mlflow)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red?logo=streamlit)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange?logo=mlflow)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
+
+[LINK](https://frauddetectionmlops.streamlit.app/)
 
 ---
 
 ## **Table of Contents**
 
-1. [Project Overview](#project-overview)
-2. [Tech Stack](#tech-stack)
-3. [Architecture Diagrams](#architecture-diagrams)
-4. [Features](#features)
-5. [Directory Structure](#directory-structure)
-6. [Setup Instructions](#setup-instructions)
-7. [Running the Streamlit App](#running-the-streamlit-app)
-8. [Running the FastAPI Service](#running-the-fastapi-service)
-9. [Experiment Tracking with MLflow](#experiment-tracking-with-mlflow)
-10. [Monitoring with Prometheus & Grafana](#monitoring-with-prometheus--grafana)
-11. [Model Details](#model-details)
-12. [Results & Metrics](#results--metrics)
-13. [Screenshots](#screenshots)
-14. [Future Work](#future-work)
-15. [Author / Contact](#author--contact)
+1. [Project Overview](#1-project-overview)
+2. [Tech Stack](#2-tech-stack)
+3. [Architecture Diagrams](#3-architecture-diagrams)
+4. [Features](#4-features)
+5. [Directory Structure](#5-directory-structure)
+6. [Setup Instructions](#6-setup-instructions)
+7. [Running the Streamlit App](#7-running-the-streamlit-app)
+8. [Running the FastAPI Service](#8-running-the-fastapi-service)
+9. [Experiment Tracking with MLflow](#9-experiment-tracking-with-mlflow)
+10. [Monitoring with Prometheus & Grafana](#10-monitoring-with-prometheus--grafana)
+11. [Model Details](#11-model-details)
+12. [Results & Metrics](#12-results--metrics)
+13. [Screenshots](#13-screenshots)
+14. [Future Work](#14-future-work)
+15. [Author / Contact](#15-author--contact)
 
 ## **1. Project Overview**
 
@@ -214,8 +216,8 @@ FRAUD_MLOPS_PROJECT/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/fraud-mlops.git
-cd fraud-mlops
+git clone https://github.com/MohitGupta0123/Fraud_Detection_MLOps.git
+cd Fraud_Detection_MLOps
 ```
 
 2. **Create virtual environment & install dependencies**
@@ -379,10 +381,6 @@ minikube service prometheus -n monitoring
 minikube service grafana -n monitoring
 ```
 
-Here are **Points 11 to 15** for your README:
-
----
-
 ## **11. Model Details**
 
 The fraud detection model is built using a **custom pipeline** with multiple stages:
@@ -437,18 +435,41 @@ The fraud detection model is built using a **custom pipeline** with multiple sta
 
 ## **13. Screenshots**
 
-Screenshots for architecture and UI are included in the `Images/` folder:
+## Screenshots
 
-* **MLOps Architecture** (`Images/MLOps_Architecture/`)
-* **Model Architecture** (`Images/Model_Architecture/`)
-* **Grafana & Prometheus Dashboards** (`Images/Grafana/`, `Images/Prometheus/`)
-* **Streamlit UI** (Home, Metrics, About Model)
+---
 
-Embed examples in README:
+### 1. **MLFlow**
+- ![MLFlow Experiment 1](Images/MLFlow/1.png)
+- ![MLFlow Experiment 2](Images/MLFlow/2.png)
 
-```markdown
-![MLOps Architecture](Images/MLOps_Architecture/image.png)
-```
+---
+
+### 2. **Docker**
+- ![Docker Setup](Images/Docker/Docker1.png)
+- ![Docker Running](Images/Docker/Docker2.png)
+- ![Docker Hub](Images/Docker/Dockerhub.png)
+
+---
+
+### 3. **FastAPI**
+- ![FastAPI Endpoint 1](Images/FastAPI/1.png)
+- ![FastAPI Endpoint 2](Images/FastAPI/2.png)
+- ![FastAPI Endpoint 3](Images/FastAPI/3.png)
+
+---
+
+### 4. **Prometheus**
+- ![Prometheus Monitoring](Images/Prometheus/1.png)
+
+---
+
+### 5. **Grafana**
+- ![Grafana Dashboard 1](Images/Grafana/1.png)
+- ![Grafana Dashboard 2](Images/Grafana/2.png)
+- ![Grafana Dashboard 3](Images/Grafana/3.png)
+- ![Grafana Dashboard 4](Images/Grafana/4.png)
+- ![Grafana Dashboard 5](Images/Grafana/5.png)
 
 ---
 
@@ -466,7 +487,8 @@ Embed examples in README:
 
 **Author:** Mohit Gupta
 
-* [GitHub](https://github.com/)
-* [LinkedIn](https://www.linkedin.com/)
+* [Mail](mailto:mgmohit1111@gmail.com)
+* [GitHub](https://github.com/MohitGupta0123)
+* [LinkedIn](https://www.linkedin.com/in/mohitgupta012/)
 
 Feel free to connect for feedback, contributions, or collaborations.
