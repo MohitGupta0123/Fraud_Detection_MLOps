@@ -4,6 +4,7 @@ mlflow
 pandas
 pydantic
 seaborn
-imblearn
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
 prometheus-fastapi-instrumentator
 streamlit
