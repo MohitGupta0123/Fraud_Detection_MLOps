@@ -14,7 +14,6 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 
 <!-- Project Info Badges -->
-<!-- ![License](https://img.shields.io/badge/License-MIT-lightgrey) -->
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Issues](https://img.shields.io/github/issues/MohitGupta0123/Fraud_Detection_MLOps)
