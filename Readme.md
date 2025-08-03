@@ -13,13 +13,25 @@ The **Fraud Detection MLOps Pipeline** is an end-to-end system designed to ident
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-yellow?logo=grafana)
 
+![CI](https://github.com/MohitGupta0123/Fraud_Detection_MLOps/actions/workflows/ci.yml/badge.svg)
+![Docker Image Size](https://img.shields.io/docker/image-size/mohitgupta0123/fraud_api/latest)
+![Code Quality](https://img.shields.io/codefactor/grade/github/MohitGupta0123/Fraud_Detection_MLOps)
+![Coverage](https://img.shields.io/codecov/c/github/MohitGupta0123/Fraud_Detection_MLOps)
+![Pylint](https://img.shields.io/badge/pylint-9.5%2F10-brightgreen)
+
+
 <!-- Project Info Badges -->
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<!-- ![License](https://img.shields.io/badge/License-MIT-lightgrey) -->
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Issues](https://img.shields.io/github/issues/MohitGupta0123/Fraud_Detection_MLOps)
-![Stars](https://img.shields.io/github/stars/MohitGupta0123/Fraud_Detection_MLOps)
-![Forks](https://img.shields.io/github/forks/MohitGupta0123/Fraud_Detection_MLOps)
+![Last Commit](https://img.shields.io/github/last-commit/MohitGupta0123/Fraud_Detection_MLOps)
+![Repo Size](https://img.shields.io/github/repo-size/MohitGupta0123/Fraud_Detection_MLOps)
+![Pull Requests](https://img.shields.io/github/issues-pr/MohitGupta0123/Fraud_Detection_MLOps)
+![Docs](https://img.shields.io/badge/docs-available-blue)
+
+<!-- ![Stars](https://img.shields.io/github/stars/MohitGupta0123/Fraud_Detection_MLOps)
+![Forks](https://img.shields.io/github/forks/MohitGupta0123/Fraud_Detection_MLOps) -->
 
 ## DEMO LINK - [LINK](https://frauddetectionmlops.streamlit.app/)
 
